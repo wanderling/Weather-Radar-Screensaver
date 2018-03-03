@@ -6,7 +6,7 @@
 #
 # Upon completion of this script, you will have a new entry in your screensavers list.
 # Selecting this new entry will download, manipulate, and display a fullscreen gif (read: moving) image of the weather radar
-# in your area. This gif will update every five minutes to keep the image accurate. 
+# in your area. This gif will update every five minutes to keep the gif accurate. 
 # 
 # Prerequisites:
 # giflib
